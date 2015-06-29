@@ -1,0 +1,2 @@
+"A" = "Custom legal text, defaults to device name if empty";
+"B" = "Set a custom Y-axis here. For users with lock screens that rotate: prefix your number with + or - to raise/lower the axis or the legal view by your set amount";

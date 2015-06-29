@@ -1,0 +1,10 @@
+Package: com.s1ris.LegalTextChanger
+Name: LegalTextChanger
+Depends: firmware (>=8.0), mobilesubstrate
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Change the legal text on iOS 8
+Depiction:
+Maintainer: s1ris
+Author: s1ris
+Section: Tweaks
